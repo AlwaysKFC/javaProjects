@@ -1,1 +1,1 @@
-En esta carpeta estan los codigos en java y python del
+En esta carpeta estan los codigos en java y python del cuadrado
