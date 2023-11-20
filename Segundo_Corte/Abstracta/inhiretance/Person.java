@@ -8,6 +8,14 @@ public class Person {
     protected int  edad;
     protected String direccion;
 
+    public Person(){
+
+    }
+
+    public Person(String nombre){
+        this.nombre = nombre;
+    }
+
     public Person(String nombre, char genero, int edad, String direccion) {    
         this.nombre = nombre;
         this.genero = genero;
